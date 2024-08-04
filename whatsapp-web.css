@@ -1,0 +1,39 @@
+@media only screen and (max-width: 500px) {
+     .xa1v5g2, .x1qlqyl8{
+         display:none 
+    }
+     ._aigv._aigw header, #side .x1ky8ojb{
+         min-width:320px;
+    }
+     ._aigv._aigw header{
+         display:none 
+    }
+    /* Main Area */
+     ._aigv._aigw {
+         max-width: 80px !important;
+         transition: all 0.5s;
+         overflow-x:hidden;
+         position:absolute;
+    }
+     ._ak8o{
+         display:none;
+    }
+     ._ak8l{
+         width:64px;
+         position:absolute;
+         top:0px;
+         left:8px;
+         right:8px;
+    }
+     .x1iyjqo2{
+         display:none;
+         position:absolute;
+         right:0px 
+    }
+     button.x2lah0s, .x1iyjqo2, .x1ky8ojb, ._ak8o ._ak8i, ._ahlk._ahll, ._aou8._aj_h, .x1iyjqo2, .x1rg5ohu.x1c4vz4f.x2lah0s {
+         display:none 
+    }
+     #main{
+         margin-left:80px 
+    }
+}
