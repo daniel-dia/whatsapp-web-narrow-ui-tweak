@@ -1,32 +1,28 @@
 @media only screen and (max-width: 500px) {
-    
-    /* Chat Area */
-     ._aigv._aigw header, #side .x1ky8ojb{
-         min-width:320px;
-    }
-     
-    /* Sidebar Area */
-     ._aigv._aigw {
-         max-width: 80px !important;
-         transition: all 0.5s;
-         overflow-x:hidden;
-         position:absolute;
-    }
-     
-    /* Chat Icons (read, status etc...) */
-     ._ak8l{ 
-         width:64px;
-         position:absolute;
-         top:0px;
-         left:8px;
-         right:8px;
-    }
   
-  /* Actions */
-  .xa1v5g2, .x1qlqyl8 {
-     display:none 
+  /* main area */
+  ._aigs{
+    min-width:auto!important
   }
 
+   /*first sidebar tabs*/
+  .xbyj736{
+    display:none
+  }
+
+  /* chat list */
+  .two ._aigw{
+    max-width:80px
+  }
+  
+  /*chat list badges*/
+  ._ak8l{
+    position:absolute;
+    left:8px
+  }
+  ._ak8k > span >*:not(.x1xp8n7a){
+    display:none
+  }
   
   ._aigw header, /* Sidebar Header */
   ._aigw .x1iyjqo2,/* chat name */
@@ -35,16 +31,9 @@
   ._aigw .x1ky8ojb,/* tabs*/
   ._aigw ._ak8o, /* Chat Title */
   ._aigw ._ahlk._ahll, /* pinned */
-  ._aigw .x1rg5ohu.x1c4vz4f.x2lah0s  /* Message icon */
-  {
-         display:none 
-   }
-  
-     #main{
-         margin-left:80px 
-    }
-	.two._aigs{
-		min-width:auto
-	}
-			
+  .x1ey2m1c, /*banner*/
+  ._trash {
+    display: none;
+  }
+
 }
