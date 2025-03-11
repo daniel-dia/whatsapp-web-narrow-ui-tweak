@@ -1,39 +1,31 @@
-@media only screen and (max-width: 500px) {
-  
-  /* main area */
-  ._aigs{
-    min-width:auto!important
-  }
+@media (max-width: 768px) {
 
-   /*first sidebar tabs*/
-  .xbyj736{
-    display:none
-  }
+	.xd32934.x1iji9kk,
+	.x1ky8ojb.x1pi30zi{
+		display:none;
+	}
+	.xa1v5g2.xn6708d{
+		display:none
+	}
 
-  /* chat list */
-  .two ._aigw{
-    max-width:80px
-  }
-  
-  /*chat list badges*/
-  ._ak8l{
-    position:absolute;
-    left:8px
-  }
-  ._ak8k > span >*:not(.x1xp8n7a){
-    display:none
-  }
-  
-  ._aigw header, /* Sidebar Header */
-  ._aigw .x1iyjqo2,/* chat name */
-  ._aigw ._aou8._aj_h,/* contact name */
-  ._aigw button.x2lah0s, /* archive button*/
-  ._aigw .x1ky8ojb,/* tabs*/
-  ._aigw ._ak8o, /* Chat Title */
-  ._aigw ._ahlk._ahll, /* pinned */
-  .x1ey2m1c, /*banner*/
-  ._trash {
-    display: none;
-  }
-
+	._aigw.x9f619{
+		max-width:175px!important
+	}
+	.x1n2onr6.x1setqd9 {
+		min-width:100%
+	}
+	.xxpasqj.x1ux35ld{
+		margin-left:0
+	}
+	.x1n2onr6 > div > div >._ak8n > ._ak8h {
+		padding:8px;
+		margin-left:-12px;
+		margin-right:0
+	}
+	
+	.x1n2onr6 > div > div > ._ak8l {
+		padding-right:4px
+	}
 }
+
+
